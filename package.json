@@ -1,6 +1,6 @@
 {
     "name": "@module64/someapi",
-    "version": "2.0.0",
+    "version": "2.4.0",
     "description": "The npm API wrapper for Someapi, created by DragonRoyale",
     "license": "MIT",
     "repository": "Module32/someapi-wrapper",
