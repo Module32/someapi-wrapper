@@ -1,6 +1,6 @@
 {
     "name": "@module64/someapi",
-    "version": "2.4.0",
+    "version": "3.2.0",
     "description": "The npm API wrapper for Someapi, created by DragonRoyale",
     "license": "MIT",
     "repository": "Module32/someapi-wrapper",
@@ -12,6 +12,7 @@
         "module32"
     ],
     "dependencies": {
-        "@module64/someapi": "^2.0.0"
+        "@module64/someapi": "^2.0.0",
+        "axios": "^0.21.1"
     }
 }
